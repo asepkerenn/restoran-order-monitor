@@ -10,14 +10,14 @@
 ## 📸 Preview Tampilan
 
 ### 🍱 Dashboard Order Monitor
-| Order View 1 | Order View 2 | Order View 3 |
+| Halaman Utama Order | Tampilan Order | Tampilan Akhir dan Pembayaran |
 | :---: | :---: | :---: |
 | ![Order 1](order1.png) | ![Order 2](order2.png) | ![Order 3](order3.png) |
 
 ---
 
 ### 💵 Management Kasir & Menu
-| Kasir View 1 | Kasir View 2 | Kasir View 3 |
+| Login Admin | Dashboard Real-Time Kasir | Edit Menu |
 | :---: | :---: | :---: |
 | ![Kasir 1](kasir1.png) | ![Kasir 2](kasir2.png) | ![Kasir 3](kasir3.png) |
 ---
