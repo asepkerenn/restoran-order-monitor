@@ -1,3 +1,8 @@
+**Nama Kelompok 5**
+-Ahmad Rasyid T.R 2413030081
+-Martha Clarissa Bertha Wearulun 2413030035
+-Silvia Aura Ramadhani 2413030025
+-riska oktavia 2413030028
 # 🍱 VPOS - Industrial Order Monitor
 
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
